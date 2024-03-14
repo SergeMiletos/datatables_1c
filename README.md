@@ -1,4 +1,4 @@
-This is a simple example of Datatables JavaScript extension library.
+This is a simple example of DataTables JQuery plugin usage.
 
 Implemented with Python/Django framework.
 
